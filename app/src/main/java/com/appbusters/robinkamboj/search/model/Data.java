@@ -1,6 +1,8 @@
 package com.appbusters.robinkamboj.search.model;
 
-public class Data {
+import com.github.wrdlbrnft.sortedlistadapter.SortedListAdapter;
+
+public class Data implements SortedListAdapter.ViewModel{
 
     private final long id;
     private final String text;
