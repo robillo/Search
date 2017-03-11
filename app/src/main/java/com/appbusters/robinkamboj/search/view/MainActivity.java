@@ -1,10 +1,12 @@
-package com.appbusters.robinkamboj.search;
+package com.appbusters.robinkamboj.search.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.appbusters.robinkamboj.search.R;
 
 public class MainActivity extends AppCompatActivity {
 
